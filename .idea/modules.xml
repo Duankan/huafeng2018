@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HuaFeng.iml" filepath="$PROJECT_DIR$/HuaFeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huafeng_core/huafeng_core.iml" filepath="$PROJECT_DIR$/huafeng_core/huafeng_core.iml" />
+    </modules>
+  </component>
+</project>

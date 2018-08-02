@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="huafeng_core:war">
+    <output-path>$PROJECT_DIR$/huafeng_core/target</output-path>
+    <root id="archive" name="huafeng_core.war">
+      <element id="artifact" artifact-name="huafeng_core:war exploded" />
+    </root>
+  </artifact>
+</component>
